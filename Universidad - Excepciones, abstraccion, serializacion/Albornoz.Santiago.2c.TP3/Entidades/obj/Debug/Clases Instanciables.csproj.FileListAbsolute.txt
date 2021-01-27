@@ -1,0 +1,13 @@
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\bin\Debug\Entidades.dll
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\bin\Debug\Entidades.pdb
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\bin\Debug\Clases Abstractas.dll
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\bin\Debug\Clases Abstractas.pdb
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Clases Instanciables.csproj.CopyComplete
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Entidades.dll
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Entidades.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Entidades.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Entidades\obj\Debug\Entidades.pdb

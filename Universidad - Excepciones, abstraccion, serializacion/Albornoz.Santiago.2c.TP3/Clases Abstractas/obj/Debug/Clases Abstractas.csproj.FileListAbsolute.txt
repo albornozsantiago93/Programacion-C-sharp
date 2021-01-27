@@ -1,0 +1,15 @@
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\bin\Debug\Clases Abstractas.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\bin\Debug\Excepciones.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\bin\Debug\Excepciones.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csprojAssemblyReference.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CoreCompileInputs.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.csproj.CopyComplete
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Clases Abstractas\obj\Debug\Clases Abstractas.pdb

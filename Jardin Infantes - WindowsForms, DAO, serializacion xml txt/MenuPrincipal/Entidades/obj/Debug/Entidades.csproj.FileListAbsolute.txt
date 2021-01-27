@@ -1,0 +1,6 @@
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\Entidades\bin\Debug\Entidades.dll
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\Entidades\bin\Debug\Entidades.pdb
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\Entidades\obj\Debug\Entidades.dll
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\Entidades\obj\Debug\Entidades.pdb

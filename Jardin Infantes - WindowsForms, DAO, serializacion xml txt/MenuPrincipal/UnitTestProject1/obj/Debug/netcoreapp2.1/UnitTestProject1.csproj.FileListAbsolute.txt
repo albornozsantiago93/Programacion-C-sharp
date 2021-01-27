@@ -1,0 +1,17 @@
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\Entidades.dll
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\bin\Debug\netcoreapp2.1\Entidades.pdb
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+C:\LaboratorioII\ParcialLaboratorioII\MenuPrincipal\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb

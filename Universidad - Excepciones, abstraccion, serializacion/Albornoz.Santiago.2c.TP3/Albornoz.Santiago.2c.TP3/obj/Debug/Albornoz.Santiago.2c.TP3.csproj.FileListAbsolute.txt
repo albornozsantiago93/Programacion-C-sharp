@@ -1,0 +1,23 @@
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Albornoz.Santiago.2c.TP3.exe.config
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Albornoz.Santiago.2c.TP3.exe
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Albornoz.Santiago.2c.TP3.pdb
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.csprojAssemblyReference.cache
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.csproj.CoreCompileInputs.cache
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.exe
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Albornoz.Santiago.2c.TP3.exe.config
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Albornoz.Santiago.2c.TP3.exe
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Albornoz.Santiago.2c.TP3.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Archivos.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Clases Abstractas.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Entidades.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Excepciones.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Archivos.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Clases Abstractas.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Entidades.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\bin\Debug\Excepciones.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.csprojAssemblyReference.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.csproj.CoreCompileInputs.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.csproj.CopyComplete
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.exe
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Albornoz.Santiago.2c.TP3\obj\Debug\Albornoz.Santiago.2c.TP3.pdb

@@ -1,0 +1,8 @@
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\albornoz santiago\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Archivos\bin\Debug\Archivos.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Archivos\obj\Debug\Archivos.dll
+C:\tp_laboratorio_2\TP_3\Albornoz.Santiago.2c.TP3\Archivos\obj\Debug\Archivos.pdb
